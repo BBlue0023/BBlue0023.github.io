@@ -1,0 +1,10 @@
+---
+title: "CHANGE THIS TO BE THE TITLE OF YOUR POST"
+author: "Branden Blue"
+date: '2022-XX-XX'
+categories: [basketball, nba, nbaplayoffs]
+image: "image.png"
+format: 
+  html:
+    code-fold: true
+---
